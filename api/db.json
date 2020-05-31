@@ -16,27 +16,15 @@
       "id": 3
     },
     {
-      "title": "New stream with userId",
-      "description": "This is just a test",
-      "userId": "109210073725892555365",
-      "id": 4
-    },
-    {
-      "title": "Unexpected behaviour, Really????",
-      "description": "I didn't expect that! hahahaha",
-      "userId": "109210073725892555365",
-      "id": 5
-    },
-    {
-      "title": "Programmatic Navigation PATCH METHOD",
-      "description": "We will not see the form page anymore, Really???",
-      "userId": "109210073725892555365",
-      "id": 6
-    },
-    {
       "title": "Create new stream with code reuse That'it",
       "description": "That's awesome for refactoring! hahahaha",
       "id": 7
+    },
+    {
+      "title": "Test",
+      "description": "Another Test",
+      "userId": "109210073725892555365",
+      "id": 8
     }
   ]
 }
