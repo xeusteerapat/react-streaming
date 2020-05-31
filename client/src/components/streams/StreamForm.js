@@ -35,7 +35,7 @@ export class StreamForm extends Component {
             label='Enter Description'
             component={this.renderInput}
           />
-          <button className='ui button primary'>Create</button>
+          <button className='ui button primary'>Submit</button>
         </form>
       </div>
     );
