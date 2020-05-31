@@ -14,6 +14,12 @@
       "title": "Graphql Live coding",
       "description": "Testing for create stream",
       "id": 3
+    },
+    {
+      "title": "New stream with userId",
+      "description": "This is just a test",
+      "userId": "109210073725892555365",
+      "id": 4
     }
   ]
 }
