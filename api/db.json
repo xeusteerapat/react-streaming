@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "My first streaming React.js coding",
+      "description": "This is just a test",
+      "id": 1
+    },
+    {
+      "description": "This is just another test",
+      "title": "Build cool app with Node.js and React.js",
+      "id": 2
+    }
+  ]
 }
