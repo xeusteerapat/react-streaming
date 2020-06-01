@@ -48,7 +48,7 @@ class StreamList extends React.Component {
   renderCreate() {
     if (this.props.isSignedIn) {
       return (
-        <div style={{ textAlign: 'right' }}>
+        <div style={{ textAlign: 'left' }}>
           <Link to='/streams/new' className='ui button green'>
             Create Stream
           </Link>

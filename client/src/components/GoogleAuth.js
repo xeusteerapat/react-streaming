@@ -38,13 +38,16 @@ class GoogleAuth extends Component {
 
   renderAuthButton() {
     if (this.props.isSignedIn === null) {
-      return <div className='ui active inline loader small'></div>;
+      return (
+        <div>
+          <button className='ui loading button'>Loading</button>
+        </div>
+      );
     } else if (this.props.isSignedIn) {
       return (
         <div>
-          <p>Welcome: {this.props.userId}</p>
           <button
-            className='ui red google button'
+            className='ui red google button aligned'
             onClick={this.onSignOutClick}
           >
             <i className='google icon' />
